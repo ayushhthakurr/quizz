@@ -1,4 +1,4 @@
-# quizerrr
+# quizz
 
 A true or false quiz app. 
 <!-- Made by Ayush Thakur -->
